@@ -4,4 +4,4 @@ MrBeans|TestCape2
 ThisIsAName|TestCape
 Zuggy|TestCape
 TfIsThAtNaMe|TestCape2
-LuminaUser|TestCape2
+LuminaUser|TestCape
