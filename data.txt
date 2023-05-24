@@ -1,5 +1,5 @@
 CorruptionHades|TestCape
-DuckWare|TestCape2
+DuckWare|TestCape
 MrBeans|TestCape2
 ThisIsAName|TestCape
 Zuggy|TestCape
